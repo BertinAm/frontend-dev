@@ -1,0 +1,26 @@
+
+.main{
+    background-image: url('/home/bertin/Documents/frontend-dev/order-summary-component-main/images/pattern-background-desktop.svg');
+    background-color: hsl(225, 100%, 94%);
+    background-repeat:no-repeat;
+    background-size: auto;
+    background-repeat: no-repeat;
+    width: 96%;
+    margin: 20px;
+    height: 570px;
+    overflow: hidden;
+    max-width: 1440px;
+    box-shadow: 4px 4px 4px 4px rgba(0.5, 0.5, 0.3, 0.3);
+}
+.box1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 30px;
+}
+img{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 320px;
+}
